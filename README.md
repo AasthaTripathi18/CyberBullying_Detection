@@ -11,10 +11,11 @@ Objectives
 3. Prevent harmful language from being posted on digital platforms.
 
 Datasets Used
-
-The project uses two publicly available datasets:
-1. Toxic Comment Classification Dataset
-2. Hate Speech and Offensive Language Dataset
+Datasets are too large to upload to GitHub.They can be downloaded from:
+1. Hate Speech and Offensive Language Dataset
+https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+2. Toxic Comment Classification Dataset
+https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge
 
 These datasets contain comments labeled as toxic, offensive, or normal.
 
